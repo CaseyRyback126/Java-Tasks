@@ -36,7 +36,7 @@ public class Laptop {
 
     @Override
     public String toString() {
-        return "Ноутбук: (" + name + "): " + "количество опретивной памяти:" + amountRAM +
+        return "Ноутбук: (" + name + "): " + "количество оперативной памяти:" + amountRAM +
                 ", операционная система: " + operatingSystem + '\'' + ", цена: " + price +
                 ", модель: " + model;
     }
